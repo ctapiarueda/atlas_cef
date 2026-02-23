@@ -1,0 +1,55 @@
+{
+      "type": "wmslayer",
+      "peso": 70,
+      "nombre": "Aspectos Naturales (o Ambientales)",
+      "short_abstract": "Clima, Geología, Sismo, etc",
+      "class": "",
+      "seccion": "atlas_aspectosnaturales",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_aspectosnaturales/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 70,
+      "nombre": "Aspectos Políticos Funcionales (o Territoriales)",
+      "short_abstract": "Departamentos, Hitos, Cabeceras,Barrios, etc.",
+      "class": "",
+      "seccion": "atlas_aspectospoliticosfuncionales",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_aspectospoliticosfuncionales/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 70,
+      "nombre": "Aspectos Económicos",
+      "short_abstract": "Yacimientos Mineros, Agricultura, Vitivinicultura, Ganadería, Comencio, Industria y Sevicios",
+      "class": "",
+      "seccion": "atlas_aspectoseconomicos",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_aspectoseconomicos/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 70,
+      "nombre": "Aspectos Sociodemográficos",
+      "short_abstract": "Población Grupo edades 1980, 1991, 2001, 2010",
+      "class": "",
+      "seccion": "atlas_aspectossociodemograficos",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_aspectossociodemograficos/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 120,
+      "nombre": "Modelos digitales de elevaciones",
+      "short_abstract": "Modelos digitales de elevaciones",
+      "class": "",
+      "seccion": "atlas_raster",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_raster/wms"
+    }
