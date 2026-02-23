@@ -1,7 +1,7 @@
 {
       "type": "wmslayer",
       "peso": 70,
-      "nombre": "Aspectos Naturales (o Ambientales)",
+      "nombre": "Aspectos Naturales",
       "short_abstract": "Clima, Geología, Sismo, etc",
       "class": "",
       "seccion": "atlas_aspectosnaturales",
@@ -12,7 +12,7 @@
     {
       "type": "wmslayer",
       "peso": 70,
-      "nombre": "Aspectos Políticos Funcionales (o Territoriales)",
+      "nombre": "Aspectos Políticos Funcionales",
       "short_abstract": "Departamentos, Hitos, Cabeceras,Barrios, etc.",
       "class": "",
       "seccion": "atlas_aspectospoliticosfuncionales",
