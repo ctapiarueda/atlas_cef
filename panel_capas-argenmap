@@ -13,7 +13,7 @@
       "type": "wmslayer",
       "peso": 70,
       "nombre": "Aspectos Políticos Funcionales",
-      "short_abstract": "Departamentos, Hitos, Cabeceras,Barrios, etc.",
+      "short_abstract": "Departamentos, Hitos, Cabeceras, Barrios, etc.",
       "class": "",
       "seccion": "atlas_aspectospoliticosfuncionales",
       "servicio": "wms",
@@ -42,6 +42,19 @@
       "version": "1.3.0",
       "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_aspectossociodemograficos/wms"
     },
+{
+      "type": "wmslayer",
+      "peso": 70,
+      "nombre": "Ordenamiento Territorial",
+      "short_abstract": "Zonificación Ambiental (IRPHA), Clasificación uso de suelo (CIGEOBIO)",
+      "class": "",
+      "seccion": "atlas_aspectossociodemograficos",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/irpha/wms",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/cigeobio/wms"
+    },
+
     {
       "type": "wmslayer",
       "peso": 120,
@@ -52,4 +65,15 @@
       "servicio": "wms",
       "version": "1.3.0",
       "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_raster/wms"
+    },
+    {
+      "type": "wmslayer",
+      "peso": 120,
+      "nombre": "Fotgrafías aéreas",
+      "short_abstract": "Relevamientos fotogramétricos,ortomosaicos,etc",
+      "class": "",
+      "seccion": "atlas_fotograerea",
+      "servicio": "wms",
+      "version": "1.3.0",
+      "host": "https://www.cefoccamapas.unsj.edu.ar:8443/geoserver/atlas_fotograerea/wms"
     }
